@@ -119,6 +119,12 @@ a.nav-item:hover {
 
 }
 
+.cash-applebutton {
+	position: absolute;
+	left: 40px;
+
+}	
+
 @media screen and (max-width: 768px) {
 	.nav-menu {
 		background-color: #063647;
