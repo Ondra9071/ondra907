@@ -163,6 +163,11 @@ a:hover {
     color:#cb6161
 } 
 
+.btn-socsite {
+    color: #891515;
+} 
+
+
 .tm-float-section { position: relative; }
 .tm-float-section-body {
     position: absolute;
@@ -185,14 +190,14 @@ a:hover {
 h1 { font-size: 54px; }
 
 .tm-btn-primary { 
-    background-color: #891515; 
-    color: white;
+    background-color: white; 
+    color: rgb(0, 0, 0);
 }
 
 .tm-btn-primary:hover,
 .tm-btn-primary:focus {
-    background-color: #891515;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 .form-control:focus {
