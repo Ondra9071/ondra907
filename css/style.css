@@ -164,7 +164,11 @@ a:hover {
 } 
 
 .btn-socsite {
-    color: #891515;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 200px;
 } 
 
 
@@ -396,3 +400,12 @@ h1 { font-size: 54px; }
     .background { padding: 40px 35px; }
     .background.content-item-1 { padding: 20px 25px; }
 }
+
+
+.btn-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 400px;
+}   
