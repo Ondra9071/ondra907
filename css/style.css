@@ -126,7 +126,7 @@ p {
     padding-right: 0;
 }
 .footer {
-    position: absolute;
+    position: relative;
     right: 0px;
     left: 0px;
     bottom: 20px;
