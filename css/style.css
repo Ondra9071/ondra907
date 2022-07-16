@@ -440,4 +440,26 @@ h1 { font-size: 54px; }
 
     .text-stroke {
     -webkit-text-stroke: 1.5px black;
-}
+        }
+    .projectDesc {
+    color: rgb(75, 75, 75);
+    font-size: 30px;
+    }
+
+    .projectDesc2 {
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+        }
+
+    .projectsTitle {
+    text-align: center;
+    font-size: 50px;
+    }
+
+    .h1-second {
+    font-size: 45px;
+    }
+
+    .h2-second {
+    font-size: 30px;
+    }
